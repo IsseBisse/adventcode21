@@ -1,0 +1,3 @@
+inp z
+inp x
+mod z x
